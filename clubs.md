@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Clubs
-subtitle: after school clubs 2017-17
+subtitle: after school clubs 2016-17
 ---
 
 Rose Park has a variety of after school clubs.
