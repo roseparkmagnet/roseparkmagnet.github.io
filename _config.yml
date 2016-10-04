@@ -24,6 +24,7 @@ description: PTSO site for Rose Park Magnet
 # List of links in the navigation bar
 navbar-links:
   About : "about"
+  Clubs: "clubs"
   Communications: "communications"
   MNPS site: "http://schools.mnps.org/rose-park-magnet-math-and-science-middle"
 
