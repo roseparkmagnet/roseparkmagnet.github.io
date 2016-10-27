@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Rose Park PTSO INVEST!
-subtitle: The 2016-17 Invest Campaign
+title: Rose Park PTSO INVEST Campaign
+subtitle: The 2016-17 INVEST Campaign
 bigimg: /img/start.jpg
 ---
-ROSE PARK PTSO 2016-2017 INVEST CAMPAIGN
 
 [Click here to view the campaign flyer and printable gift form (PDF)](/media/2016.10.26.rose-park-ptso-invest.pdf)
 
